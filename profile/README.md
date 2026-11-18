@@ -1,3 +1,4 @@
+
 # Last Chance Roleplay
 
 Last Chance Roleplay is a serious roleplay community on FiveM. We focus on character-driven stories, fair play, and a server where every choice has weight. You only get one shot at it, so make it count.
@@ -14,7 +15,6 @@ connect play.lcrp5m.net
 
 You can also search for **Last Chance Roleplay** in the FiveM server browser.
 
-| | |
 |---|---|
 | Server address | `play.lcrp5m.net` |
 | Discord | [discord.gg/lcrp5m](https://discord.gg/lcrp5m) |
