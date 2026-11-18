@@ -38,20 +38,20 @@ New to the city? Here's the short version:
 4. **Create your character.** Give them a name, a backstory, and a reason to be in the city.
 5. **Play it out.** Stay in character, give others good RP, and let the story happen.
 
-## Departments and Jobs
+## Departments
 
 ### Whitelisted
 
 | Department | How to join |
 |---|---|
-| Police | Application in Discord |
-| EMS / Fire | Application in Discord |
-| Department of Justice | Application in Discord |
-| Gangs and organizations | Contact staff with a group proposal |
+| Clayton County Sheriff's Office | Application in Discord |
+| Georgia State Patrol | Application in Discord |
+| South Fulton Police Department | Application in Discord |
+| Clayton County Fire & Emergency Services | Application in Discord |
 
 ### Civilian
 
-Mechanic, tow, taxi, trucking, fishing, mining, real estate, and more. Civilian jobs are open to everyone. Some businesses can be owned and run by players.
+Civilian is open to everyone. Work a job, run a business, or build your own story in the city.
 
 ## Staff
 
@@ -67,54 +67,9 @@ Mechanic, tow, taxi, trucking, fishing, mining, real estate, and more. Civilian 
 
 Need help? Open a ticket in Discord. Don't DM staff directly for support.
 
-## Ban Appeals
-
-Appeals are submitted through the `#ban-appeals` channel or the form on [our website](https://lcrp5m.net). Be honest about what happened. Appeals that dodge responsibility get denied.
-
 ## For Developers
 
 This section is for anyone working on the server itself.
-
-### Stack
-
-- **Server:** FXServer managed through txAdmin
-- **Framework:** [Qbox](https://qbox.re)
-- **Database:** MariaDB / MySQL with oxmysql
-- **Library:** ox_lib
-- **Voice:** pma-voice
-
-### Local Setup
-
-1. Download the latest recommended [FXServer artifacts](https://runtime.fivem.net/artifacts/fivem/).
-2. Clone this repository into your server data folder.
-3. Copy `server.cfg.example` to `server.cfg` and fill in your license key and database connection string.
-4. Import the database schema:
-
-```bash
-mysql -u <user> -p <database> < sql/schema.sql
-```
-
-5. Start the server:
-
-```bash
-./run.sh +exec server.cfg
-```
-
-On Windows, run `FXServer.exe +exec server.cfg` instead.
-
-### Structure
-
-```
-resources/
-├── [core]        Framework and essential dependencies
-├── [standalone]  Self-contained scripts
-├── [jobs]        Job and department resources
-├── [maps]        MLOs and map edits
-├── [vehicles]    Vehicle add-ons
-└── [ui]          HUD, phone, and menus
-server.cfg        Server configuration (not committed)
-sql/              Database schema and migrations
-```
 
 ### Contributing
 
