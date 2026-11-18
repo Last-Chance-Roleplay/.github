@@ -57,13 +57,13 @@ Civilian is open to everyone. Work a job, run a business, or build your own stor
 
 | | Name | Role | Discord |
 |---|---|---|---|
-| <img src="img/Henz.png" width="64" height="64"> | T. Bradford (A-1) | Owner | `bhens84` |
-| <img src="img/Barfield.png" width="64" height="64"> | K. Barfield (A-2) | Owner | `kennyb_14` |
-| <img src="img/Ron.png" width="64" height="64"> | R. Wick (A-3) | Owner & Development Director | `sa1tie8` |
-| <img src="img/turner.png" width="64" height="64"> | K. Turner | Staff Team & Developer | `onyximpulsion` |
-| <img src="img/baumann.png" width="64" height="64"> | L. Baumann | Staff Team & Developer | `lb2234` |
-| <img src="img/larry.png" width="64" height="64"> | A. Larry | Staff Team | `larry.j` |
-| <img src="img/brayden.png" width="64" height="64"> | B. Herrell | Developer | `i_ambrayden` |
+| <img src="bradford.png" width="64" height="64"> | T. Bradford (A-1) | Owner | `bhens84` |
+| <img src="barfield.png" width="64" height="64"> | K. Barfield (A-2) | Owner | `kennyb_14` |
+| <img src="ron.png" width="64" height="64"> | R. Wick (A-3) | Owner & Development Director | `sa1tie8` |
+| <img src="turner.png" width="64" height="64"> | K. Turner | Staff Team & Developer | `onyximpulsion` |
+| <img src="baumann.png" width="64" height="64"> | L. Baumann | Staff Team & Developer | `lb2234` |
+| <img src="larry.png" width="64" height="64"> | A. Larry | Staff Team | `larry.j` |
+| <img src="brayden.png" width="64" height="64"> | B. Herrell | Developer | `i_ambrayden` |
 
 Need help? Open a ticket in Discord. Don't DM staff directly for support.
 
