@@ -15,6 +15,7 @@ connect play.lcrp5m.net
 
 You can also search for **Last Chance Roleplay** in the FiveM server browser.
 
+| | |
 |---|---|
 | Server address | `play.lcrp5m.net` |
 | Discord | [discord.gg/lcrp5m](https://discord.gg/lcrp5m) |
